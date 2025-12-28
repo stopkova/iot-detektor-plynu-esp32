@@ -4,7 +4,7 @@
 Pedagogická fakulta  
 Katedra pedagogiky a špeciálnej pedagogiky  
 
-**Projekt z predmetu:** Internet vecí  
+**Projekt z predmetu:** internet vecí  
 
 **Autor:** PaedDr. Michaela Stopková, PhD.  
 **Študijný program:** RŠ informatiky  
