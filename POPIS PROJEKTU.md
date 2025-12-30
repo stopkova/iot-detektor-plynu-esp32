@@ -93,3 +93,7 @@ Meranie prebieha nepretržite a bez blokovania hlavnej slučky programu, čo zab
 ## 6 Záver
 
 Projekt IoT detektora plynu demonštruje praktické využitie mikrokontroléra ESP32 v oblasti bezpečnostných systémov a internetu vecí. Výsledné riešenie je jednoduché, funkčné a rozšíriteľné, pričom poskytuje základ pre ďalší vývoj, napríklad doplnenie notifikácií, ukladanie dát alebo kalibráciu senzora.
+
+---
+## Inšpirácia
+https://www.youtube.com/watch?v=7ew6a5sBUf4
